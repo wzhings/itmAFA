@@ -30,4 +30,4 @@ This repository contains the implementations of [Enhancing Image-Text Matching w
 
 ### Acknowledgements
 
-Our implementation is based on [SCAN](https://github.com/kuanghuei/SCAN), [vsepp](https://github.com/fartashf/vsepp), [vse_infty](https://github.com/woodfrog/vse_infty), and other repositories. We give credit to all these researchers and sincerely appreciate their contributions.
+Our implementations are based on [SCAN](https://github.com/kuanghuei/SCAN), [vsepp](https://github.com/fartashf/vsepp), [vse_infty](https://github.com/woodfrog/vse_infty), and other repositories. We give credit to all these researchers and sincerely appreciate their contributions.
