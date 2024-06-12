@@ -21,12 +21,12 @@ def main():
     opt = parser.parse_args()
 
     if opt.dataset == 'coco':
-        # put the MSCOCO heckpoints here
+        # put the MSCOCO checkpoints here
         weights_bases = [
                         #'./models/itmAFA_coco',
         		        ]
     elif opt.dataset == 'f30k':
-        # put the Flickr30K heckpoints here
+        # put the Flickr30K checkpoints here
         weights_bases = [
                         #'./models/itmAFA_f30k',
 			            ]
