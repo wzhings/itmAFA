@@ -31,3 +31,22 @@ This repository contains the implementations of [Enhancing Image-Text Matching w
 ### Acknowledgements
 
 Our implementations are based on [SCAN](https://github.com/kuanghuei/SCAN), [vsepp](https://github.com/fartashf/vsepp), [vse_infty](https://github.com/woodfrog/vse_infty), and other repositories. We give credit to all these researchers and sincerely appreciate their contributions.
+
+
+
+### Citation
+
+If you find the paper and the code useful, please cite our paper as follows:
+
+@INPROCEEDINGS{10446913,
+  author={Wang, Zuhui and Yin, Yunting and Ramakrishnan, I.V.},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Enhancing Image-Text Matching with Adaptive Feature Aggregation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={8245-8249},
+  keywords={Training;Deep learning;Adaptation models;Codes;Aggregates;Speech enhancement;Signal processing;triplet ranking loss;feature enhancement;cross-modal retrieval;image-text matching},
+  doi={10.1109/ICASSP48485.2024.10446913}
+}
+
