@@ -38,6 +38,7 @@ Our implementations are based on [SCAN](https://github.com/kuanghuei/SCAN), [vse
 
 If you find the paper and the code useful, please cite our paper as follows:
 
+```
 @INPROCEEDINGS{10446913,
   author={Wang, Zuhui and Yin, Yunting and Ramakrishnan, I.V.},
   booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
@@ -49,4 +50,5 @@ If you find the paper and the code useful, please cite our paper as follows:
   keywords={Training;Deep learning;Adaptation models;Codes;Aggregates;Speech enhancement;Signal processing;triplet ranking loss;feature enhancement;cross-modal retrieval;image-text matching},
   doi={10.1109/ICASSP48485.2024.10446913}
 }
+```
 
