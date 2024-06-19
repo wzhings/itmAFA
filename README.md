@@ -47,7 +47,7 @@ If you find the paper and the code useful, please cite our paper as follows:
   volume={},
   number={},
   pages={8245-8249},
-  keywords={Training;Deep learning;Adaptation models;Codes;Aggregates;Speech enhancement;Signal processing;triplet ranking loss;feature enhancement;cross-modal retrieval;image-text matching},
+  keywords={triplet ranking loss;feature enhancement;cross-modal retrieval;image-text matching},
   doi={10.1109/ICASSP48485.2024.10446913}
 }
 ```
